@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugass</string>
+    <string name="tambah_tugas">Tambah Tugas</string>
+    <string name="tambah">Tambah</string>
+    <string name="hapus">Hapus</string>
+    <string name="add_task">Add Task</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Delete</string>
+</resources>
